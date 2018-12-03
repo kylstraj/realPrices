@@ -30,3 +30,5 @@ const makePriceGetter = threshold =>
   };
 
 const getRealPrice = makePriceGetter(0.1);
+
+export { makePriceGetter, getRealPrice };

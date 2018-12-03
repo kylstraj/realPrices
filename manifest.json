@@ -1,0 +1,11 @@
+{
+  "name": "Real Prices",
+  "version": "1.0.0",
+  "description": "Rounds up fussy exact prices that manipulate your left-digit bias into more honest approximations",
+  "permissions": ["storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2
+}
