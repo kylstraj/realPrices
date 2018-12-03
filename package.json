@@ -1,0 +1,11 @@
+{
+  "name": "realprices",
+  "version": "1.0.0",
+  "description": "Chrome extension to modify price displays to compensate for left digit bias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Kylstra",
+  "license": "ISC"
+}
